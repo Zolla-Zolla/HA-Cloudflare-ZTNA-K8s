@@ -1,4 +1,4 @@
-# # Cloudfare Auto-Scaling Zero-Trust on k8s
+# # Cloudfare Auto-Scaling Zero-Trust on K8s
 
 So you want to do Cloudflare Zero Trust, but you're worried about having a single point of failure from a single tunnel.  What can you do?!  Let's solve this problem with Kubernetes! 
 
